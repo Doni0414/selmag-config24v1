@@ -4,11 +4,11 @@ spring:
       client:
         registration:
           keycloak:
-            client-id: manager-app-nip.io
-            client-secret: 63SPkAFmC6Kaokp8m0VnIIbkARnCaexE
+            client-id: manager-app-nip-io
+            client-secret: H6EGA7EBc1ve0KMIt4rIgUnZdO5CCNEb
           metrics:
-            client-id: manager-app-nip.io
-            client-secret: 63SPkAFmC6Kaokp8m0VnIIbkARnCaexE
+            client-id: manager-app-nip-io
+            client-secret: H6EGA7EBc1ve0KMIt4rIgUnZdO5CCNEb
           discovery:
-            client-id: manager-app-nip.io
-            client-secret: 63SPkAFmC6Kaokp8m0VnIIbkARnCaexE
+            client-id: manager-app-nip-io
+            client-secret: H6EGA7EBc1ve0KMIt4rIgUnZdO5CCNEb
